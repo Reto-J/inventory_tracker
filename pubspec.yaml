@@ -34,6 +34,7 @@ dependencies:
   path: ^1.9.0
   sqflite: ^2.3.0
   toastification: ^3.0.3
+  sqlite3_flutter_libs:
   provider:
   shared_preferences:
   flutter:
